@@ -1,0 +1,156 @@
+body{
+    margin:0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+background-image: url("images/donation1.jpg");
+color: rgb(255, 255, 255);
+height: 600px;
+background-repeat: no-repeat;
+
+
+background-size:100%;
+
+
+
+
+
+
+}
+
+.div1{
+    text-align: center;
+    padding-top: 100px;
+    font-size: large;
+}
+button{
+    background-color:rgb(226, 78, 85);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+   display:inline-block;
+    font-size: 16px;
+    margin: 50px 2px;
+    border-radius: 5px;
+   
+}
+.div2{
+    text-align: center;
+    padding-top: 100px;
+}
+p{
+    color: rgb(175, 186, 188);
+}
+
+.money{
+   
+    color: rgb(25, 24, 24);
+    font-size: 30px
+    
+}
+
+ul{
+    display:inline-flex;
+    text-decoration: none;
+    text-decoration-style:none
+}
+li{
+    margin: 40px;
+    list-style-type: none;
+   
+    padding: 40px 20px;
+    background-color: rgb(242, 248, 249);
+    border-radius: 5px;
+
+}
+.twotk{
+  background-color:rgb(255, 213, 212);
+  border: 2px solid rgb(238, 70, 70);
+}
+input{
+   
+    border: none;
+    text-align: center;
+   
+    
+}
+.inputsub{
+  
+align-items: center;
+width: 500px;
+text-align: center;
+height: 40px;
+box-sizing: border-box;
+
+border-bottom: 2px solid rgb(161, 154, 154);
+}
+
+
+
+.container{
+    display: flex;
+   
+
+}
+.container1{
+    width: 30%;
+    padding: 10px;
+    margin: 50px;
+    background-color: rgb(218, 237, 235);
+    
+    border: 1px solid rgb(171, 227, 241);
+
+}
+
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.icon{
+    margin-top: 30px;
+}
+.footer{
+    background-color: black;
+    height: 150px;
+    
+}
+.emsub{
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    padding: 50px;
+    
+    background-color: rgb(248, 237, 226);
+
+    
+   
+        
+
+
+}
+.contact{
+    width: px;
+    padding-bottom: 100px;
+}
+#email{
+    background-color:rgb(193, 190, 190);
+    padding-top:10px;
+  
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-align: left;
+    border: none;
+}
+#submit{
+    background-color: rgb(235, 71, 71);
+    padding-top:10px;
+  
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
