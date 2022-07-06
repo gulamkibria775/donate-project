@@ -6,7 +6,7 @@ body{
 .header{
 background-image: url("images/donation1.jpg");
 color: rgb(255, 255, 255);
-height: 600px;
+height: 650px;
 background-repeat: no-repeat;
 
 
@@ -92,6 +92,7 @@ border-bottom: 2px solid rgb(161, 154, 154);
 
 .container{
     display: flex;
+    
    
 
 }
@@ -114,11 +115,34 @@ p{
 .icon{
     margin-top: 30px;
 }
-.footer{
-    background-color: black;
-    height: 150px;
+hr{
+    margin: auto;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.out_card{
+    display: flex;
     
 }
+.sub_card{
+    align-items: center;
+    margin:auto;
+    padding-top:40px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width:300px;
+    
+    text-align: center;
+    font-family: arial;
+    margin: 20px;
+    
+   
+    
+  }
+
+
 .emsub{
     margin: auto;
     width: 40%;
@@ -127,12 +151,7 @@ p{
     
     background-color: rgb(248, 237, 226);
 
-    
-   
-        
-
-
-}
+    }
 .contact{
     width: px;
     padding-bottom: 100px;
@@ -153,4 +172,11 @@ p{
     padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 20px;
+    margin-left: -5px;
+}
+
+.footer{
+    background-color: black;
+    height: 150px;
+    
 }
